@@ -18,7 +18,7 @@ ___
 | No.       | Project                                                    			| 
 | ---       | -------                                                    			|
 | Project 1 | [Explore US Bikeshare Data](/Explore-Us-Bikeshare-Data) 			|
-| Project 2 | [Investigate a Dataset (Patient no-show)](/investigate-a-dataset/Patients no-show appointments)  			|
+| Project 2 | [Investigate a Dataset (Patient no-show)](/investigate-a-dataset/Patients-no-show-appointments)  			|
 | Project 3 | [Investigate a Dataset (TMDB)](/investigate-a-dataset/TMDB-Movies-Dataset-Analysis)  			|
 | Project 4 | [Working with Mock Client](/workiing-with-mock-client)   			|
  
